@@ -3,9 +3,9 @@
 ### Run the following Commands in CloudShell
 ```
 export REGION=
-curl -LO raw.githubusercontent.com/dev-abhiig/dev-abhiig-GSP070/refs/heads/main/dev-abhiig-GSP070
+curl -LO raw.githubusercontent.com/dev-abhiig/dev-abhiig-GSP070/refs/heads/main/dev-abhiig-GSP070.sh
 
-sudo chmod +x gsp070.sh
+sudo chmod +x dev-abhiig-GSP070.sh
 
-./gsp070.sh
+./dev-abhiig-GSP070.sh
 ```
